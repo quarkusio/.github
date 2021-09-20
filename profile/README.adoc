@@ -12,7 +12,7 @@ endif::[]
 
 ++++
 <p align="center">
-  <img src="https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_horizontal_rgb_450px_default.png">
+  <img src="https://design.jboss.org/quarkus/social/images/github_readme_banner.png">
 </p>
 ++++
 
