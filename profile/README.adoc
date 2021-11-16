@@ -12,7 +12,7 @@ endif::[]
 
 ++++
 <p align="center">
-  <img src="images/github_readme_banner.png" alt="Quarkus - Super Subatomic Java">
+  <img src="/quarkusio/.github/blob/main/profile/images/github_readme_banner.png" alt="Quarkus - Super Subatomic Java">
 </p>
 ++++
 
