@@ -12,11 +12,11 @@ endif::[]
 
 ++++
 <p align="center">
-  <img src="https://design.jboss.org/quarkus/social/images/github_readme_banner.png">
+  <img src="images/github_readme_banner.png" alt="Quarkus - Super Subatomic Java">
 </p>
 ++++
 
-Welcome to the Quarkus GitHub Organization! 
+= Welcome to the Quarkus GitHub Organization! 
 
 In here you can find our https://github.com/quarkusio/quarkus[main repository], our https://github.com/quarkusio/quarkus[issue tracker] and https://github.com/quarkusio/quarkus/wiki/Migration-Guides[migration guide].
 
