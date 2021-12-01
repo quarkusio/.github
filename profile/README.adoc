@@ -8,7 +8,7 @@ endif::[]
 :hide-uri-scheme:
 :figure-caption!:
 
-# Supersonic Subatomic Welcome
+= Supersonic Subatomic Welcome to
 
 ++++
 <p align="center">
@@ -16,10 +16,10 @@ endif::[]
 </p>
 ++++
 
-= Welcome to the Quarkus GitHub Organization! 
-
 In here you can find our https://github.com/quarkusio/quarkus[main repository], our https://github.com/quarkusio/quarkus[issue tracker] and https://github.com/quarkusio/quarkus/wiki/Migration-Guides[migration guide].
 
 If you are looking to get started with Quarkus check out our https://quarkus.io/get-started/ and the main https://quarkus.io/guides[documentation guides].
 
 To get directly to coding Quarkus applications try https://code.quarkus.io and if you want to write Quarkus extensions check out https://github.com/quarkiverse[Quarkiverse Hub].
+
+Finally, to discuss and see what the Quarkus community is up to check out our https://github.com/quarkusio/quarkus/discussions[Discussions]. 
