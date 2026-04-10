@@ -1,4 +1,4 @@
-name: Quarkiverse Pre Release
+name: Quarkus Pre Release
 
 on:
   workflow_call:
