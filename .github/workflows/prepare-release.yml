@@ -32,7 +32,7 @@ on:
         value: ${{ jobs.prepare-release.outputs.next-version }}
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   prepare-release:
