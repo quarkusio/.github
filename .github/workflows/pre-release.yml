@@ -15,7 +15,7 @@ jobs:
           echo '::error::Pre-release cannot be triggered from a fork.'
           exit 1
 
-      - uses: radcortez/project-metadata-action@main
+      - uses: smallrye/project-metadata-action@main
         name: retrieve project metadata
         id: metadata
         with:
